@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.17)  7 OCT 2024 16:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.17)  7 OCT 2024 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -514,7 +514,11 @@ File: ot1txr.fd 2000/12/15 v3.1
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box77
-) (assigment.aux)
+) (assigment.aux
+
+LaTeX Warning: Label `fig:image_label' multiply defined.
+
+)
 \openout1 = `assigment.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 20.
@@ -663,44 +667,50 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
 
 
 [1]
-Overfull \hbox (192.0315pt too wide) in paragraph at lines 99--122
- [] 
- []
-
-
 
 [2]
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-d:/NPU/Masters's degree/probability and stats/homeworks/Chapter 1 - assigment/assigment.tex:191: Extra \endgroup.
-l.191 \endgroup
-               
-Things are pretty mixed up, but I think the worst is over.
+<histogram.png, id=25, 344.78813pt x 206.27063pt>
+File: histogram.png Graphic file (type png)
+<use histogram.png>
+Package pdftex.def Info: histogram.png  used on input line 222.
+(pdftex.def)             Requested size: 257.35518pt x 153.96608pt.
+<pie.png, id=27, 335.75438pt x 204.765pt>
+File: pie.png Graphic file (type png)
+<use pie.png>
+Package pdftex.def Info: pie.png  used on input line 228.
+(pdftex.def)             Requested size: 257.35518pt x 156.9509pt.
 
 
-
-[4] (assigment.aux)
+[5 <./histogram.png> <./pie.png>] (assigment.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 28040 strings out of 473898
- 714813 string characters out of 5726951
- 1942960 words of memory out of 5000000
- 50460 multiletter control sequences out of 15000+600000
+ 28059 strings out of 473898
+ 715147 string characters out of 5726951
+ 1943960 words of memory out of 5000000
+ 50479 multiletter control sequences out of 15000+600000
  586382 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,101p,805b,2081s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,9n,101p,805b,1998s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxbsc.pfb><C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxsc.pfb><C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on assigment.pdf (5 pages, 49948 bytes).
+Output written on assigment.pdf (6 pages, 87758 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
