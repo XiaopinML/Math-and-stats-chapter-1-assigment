@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728287814.3454 "d:/NPU/Masters's degree/probability and stats/homeworks/Chapter 1 - assigment/assigment.tex" "assigment.pdf" "assigment" 1728287819.92282 2
+["pdflatex"] 1728288918.06492 "d:/NPU/Masters's degree/probability and stats/homeworks/Chapter 1 - assigment/assigment.tex" "assigment.pdf" "assigment" 1728288923.04189 2
   "C:/Users/Haji/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728283498 84184 1995cfc41db6e9ab49dc0f7559c26447 ""
   "C:/Users/Haji/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726573895 24264902 597906b94038280bfa0edde4241960d0 ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -23,6 +23,11 @@
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/tfm/public/txfonts/txsya.tfm" 977342760 972 2c9ffac4bbd20f91c01aaef9bf3f8710 ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/tfm/public/txfonts/txsyb.tfm" 977342760 988 098ca7e8cc5647b9ac21b82dbdce1f01 ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/tfm/public/txfonts/txsyc.tfm" 977342760 1084 75e807e9e71f7a312e4e1187dce5e93b ""
+  "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxbsc.pfb" 1210787160 11557 c84f8a007764c604d3891eb707a5dc9f ""
+  "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb" 977342760 6339 e2b78706efdc360ee6aec9b6e20211a7 ""
+  "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxsc.pfb" 1206581220 11099 83316203930a07cc1ec0d29d0f0dd35c ""
+  "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136824548 44729 fea0975e20ec51c992338362f05f1146 ""
+  "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136824548 46026 687528a208fbfc1f00832bb96cccebbb ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/vf/public/txfonts/txb.vf" 977342760 904 6f62e1cf12eaf73424d693287a9d3dce ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/vf/public/txfonts/txbsc.vf" 977342760 936 5830a5d41bbb56562f4791b0aedf03bd ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/fonts/vf/public/txfonts/txr.vf" 977342760 904 e582cae2d8ae3f48a0a520440ebcdb51 ""
@@ -183,9 +188,9 @@
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/tex/latex/txfonts/utxsyb.fd" 977342760 310 8c5467c8932c259af51b0f116c9734bd ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/tex/latex/txfonts/utxsyc.fd" 977342760 310 4b5d6fe830337242ef847b3bff48ba21 ""
   "C:/Users/Haji/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "assigment.aux" 1728287819 136 2133b4efef4448a8825c121aee07f00e "pdflatex"
-  "assigment.tex" 1728287645 6078 e0b9a38b421438242b6c70ab98e4ac99 ""
-  "d:/NPU/Masters's degree/probability and stats/homeworks/Chapter 1 - assigment/assigment.tex" 1728287645 6078 e0b9a38b421438242b6c70ab98e4ac99 ""
+  "assigment.aux" 1728288921 240 3243026de74c6765538c4b513c68275c "pdflatex"
+  "assigment.tex" 1728288908 5337 3c3efb432b2d0b60cadf788441541d83 ""
+  "d:/NPU/Masters's degree/probability and stats/homeworks/Chapter 1 - assigment/assigment.tex" 1728288908 5337 3c3efb432b2d0b60cadf788441541d83 ""
   (generated)
   "assigment.aux"
   "assigment.log"
